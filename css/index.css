@@ -1,0 +1,9 @@
+header {
+    background-color: black;
+}
+
+a {
+    display: grid;
+    grid-template-columns: 200px;
+    grid-template-columns: 1fr;
+}
